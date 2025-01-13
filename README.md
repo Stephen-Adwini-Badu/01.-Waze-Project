@@ -1,2 +1,43 @@
-# 01.-Waze-Project
- 
+# Waze Project Notebook - README
+
+## Project Overview
+This notebook focuses on exploring and analyzing Waze user data to uncover insights about user behavior, identify key patterns in app usage, and develop predictive models for user retention and engagement.
+
+## Objectives
+1. **Conduct a T-Test** to analyze the difference in the average number of rides between Android and iPhone users.
+2. **Build a Logistic Regression Model** to predict user churn.
+3. **Develop Classification Models** to differentiate between claims and opinions within user comments and video reviews.
+
+---
+
+## Methodology
+### 1. Data Exploration & Preprocessing
+- Dataset loading and initial inspection using Pandas.
+- Handling missing data by dropping incomplete rows.
+- Reviewing dataset characteristics such as size, types, and distributions.
+
+### 2. Data Visualization
+- Visualization of key variables (e.g., sessions, drives, app usage duration).
+- Generation of box plots and histograms to explore data distribution and identify trends.
+- Comparative bar plots for device type usage and user retention rates.
+
+### 3. Statistical Testing
+- **Hypothesis Testing:** 
+  - Null Hypothesis: No difference in average rides between Android and iPhone users.
+  - Alternative Hypothesis: A significant difference exists.
+- Execution of T-tests to validate hypotheses.
+
+### 4. Machine Learning Models
+- Development of predictive models using:
+  - Logistic Regression for churn prediction.
+  - Random Forest and Gradient Boosting classifiers for user comment classification.
+- Model evaluation using accuracy, precision, recall, F1 scores, and confusion matrices.
+
+---
+
+## Dependencies
+The notebook utilizes the following Python packages:
+- **Data Manipulation & Numerics:** `numpy`, `pandas`
+- **Visualization:** `matplotlib`, `seaborn`
+- **Statistical Analysis:** `scipy`
+- **Machine Learning Models:** `scikit-learn`, `xgboost`
