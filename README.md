@@ -29,10 +29,12 @@ This notebook focuses on exploring and analyzing Waze user data to uncover insig
 
 ### 4. Machine Learning Models
 - Development of predictive models using:
-  - **Logistic Regression for churn prediction.**
+
+#### 4.1 Logistic Regression For Churn Prediction.
 ![Image](https://github.com/user-attachments/assets/83b3ac9b-e7a8-4ba6-85ca-b7c9aa78e323)
-  - Random Forest and Gradient Boosting classifiers for user comment classification.
-- **Model evaluation using accuracy, precision, recall, F1 scores, and confusion matrices.**
+
+#### 4.2 Classification Models Evaluation Using Confusion Matrices.
 ![Image](https://github.com/user-attachments/assets/079dff94-163b-4911-90f8-0fecac8d9425)
-- **Feature importance of final models**
+
+#### 4.3 Feature Omportance Of Classifiaction Models
 ![Image](https://github.com/user-attachments/assets/25ac6bdf-52dd-4de9-90d5-3ea141bcf333)
