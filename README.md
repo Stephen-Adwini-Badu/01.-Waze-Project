@@ -34,7 +34,7 @@ This notebook focuses on exploring and analyzing Waze user data to uncover insig
 ![Image](https://github.com/user-attachments/assets/83b3ac9b-e7a8-4ba6-85ca-b7c9aa78e323)
 
 #### 4.2 Classification Models Evaluation Using Confusion Matrices.
-![Image](https://github.com/user-attachments/assets/079dff94-163b-4911-90f8-0fecac8d9425)
+![1 1](https://github.com/user-attachments/assets/9fb2e01f-57cc-41cd-948d-9f688353f29c)
 
 #### 4.3 Feature Importance Of Classifiaction Models
 ![Image](https://github.com/user-attachments/assets/25ac6bdf-52dd-4de9-90d5-3ea141bcf333)
