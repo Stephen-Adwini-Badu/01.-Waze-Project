@@ -1,4 +1,4 @@
-# Waze Project Notebook - README
+# Waze Project
 
 ## Project Overview
 This notebook focuses on exploring and analyzing Waze user data to uncover insights about user behavior, identify key patterns in app usage, and develop predictive models for user retention and engagement.
